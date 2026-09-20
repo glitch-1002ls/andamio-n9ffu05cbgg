@@ -1,0 +1,8 @@
+{
+  "name": "Andamio",
+  "short_name": "Andamio",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0E0F13",
+  "theme_color": "#0E0F13"
+}
